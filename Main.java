@@ -20,7 +20,7 @@ public class Main {
         {
             if (userinput.equals("rock"))
             {
-                System.out.println("its a tie!");
+                System.out.println("it's a tie!");
             }
 
             if (userinput.equals("paper"))
