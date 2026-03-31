@@ -15,6 +15,21 @@ public class Main {
         //0 is rock
         //1 is paper
         //2 is scissors
+
+        if (computerChoice == 0)
+        {
+            System.out.println("rock!");
+        }
+
+        if (computerChoice == 1)
+        {
+            System.out.println("paper!");
+        }
+
+        if (computerChoice == 2)
+        {
+            System.out.println("scissors!");
+        }
         
         if (computerChoice == 0)
         {
